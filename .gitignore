@@ -1,1 +1,5 @@
 bin
+org.eclipse.jdt.core.prefs
+.setting
+.project
+.classpath
